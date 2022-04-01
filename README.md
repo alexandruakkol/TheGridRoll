@@ -1,2 +1,2 @@
 # gridApp
-deployed on github pages
+Deployed on Github Pages
